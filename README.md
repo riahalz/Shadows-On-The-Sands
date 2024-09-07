@@ -1,4 +1,6 @@
 # Shadows-On-The-Sands
+<img>SOTSMainMenuBackground.png</img>
+
 'Shadows On The Sands' is a mystery/thriller visual novel game.
 
 Technologies:
