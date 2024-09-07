@@ -1,7 +1,7 @@
 # Shadows-On-The-Sands
-<img>SOTSMainMenuBackground.png</img>
+<img src = "SOTSMainMenuBackground.png">
 
-'Shadows On The Sands' is a mystery/thriller visual novel game.
+<p>'Shadows On The Sands' is a mystery/thriller visual novel game.</p>
 
 Technologies:
 - Python
