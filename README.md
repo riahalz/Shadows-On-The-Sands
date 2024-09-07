@@ -3,7 +3,7 @@
 
 'Shadows On The Sands' is a mystery/thriller visual novel game developed using Python and the Ren'Py engine.
 
-Free to play
+Free to play on itch.io
 
 Technologies:
 - Python
