@@ -7,7 +7,7 @@ Will you and friends successfully expose your manager and his illicit schemes at
 
 Free to play on itch.io
 
-For developmental insights and snapshots, check out the blog: https://www.tumblr.com/sotsgame
+For development insights and snapshots, check out the blog: https://www.tumblr.com/sotsgame
 
 <b>Technologies:</b>
 - Python
