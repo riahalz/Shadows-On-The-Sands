@@ -13,4 +13,4 @@ Technologies:
 - GIMP
 - Autodesk Sketchbook
 
-All code is the sole property of the developer and cannot be replicated.
+This code contains some of the source code files of the game. All code is the sole property of the developer and cannot be replicated.
