@@ -1,5 +1,5 @@
 # Shadows-On-The-Sands
-<img src = "SOTSMainMenuBackground.png">
+<img src = "yuzu_closeup.png">
 
 'Shadows On The Sands' is a mystery/thriller visual novel game developed using Python and the Ren'Py engine.
 
