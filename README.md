@@ -7,7 +7,7 @@ Free to play on itch.io
 
 For developmental insights and snapshots, check out the blog: https://www.tumblr.com/sotsgame
 
-Technologies:
+<b>Technologies:</b>
 - Python
 - Ren'Py
 - GIMP
