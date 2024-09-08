@@ -15,4 +15,4 @@ For development insights and snapshots, check out the blog: https://www.tumblr.c
 - GIMP
 - Autodesk Sketchbook
 
-This code contains some of the game's source code files. All code is the sole property of the developer and cannot be replicated.
+This code contains some of the game's source code files and assets. All code and assets are the sole property of the developer and cannot be replicated.
