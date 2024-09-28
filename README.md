@@ -11,5 +11,8 @@ Free to play on itch.io
 - Programming languages: Python
 - Engines: Ren'Py
 - Graphic Design: GIMP, Autodesk Sketchbook
+- Music: LMMS
+
+Music by Riya Halbhavi and Sayhan Fareedi Ahmed
 
 This code contains some of the game's source code files and assets. All code and assets are the sole property of the developer and cannot be replicated.
