@@ -3,7 +3,7 @@
 
 'Shadows On The Sands' is a mystery/thriller visual novel game developed using Python and the Ren'Py engine.
 
-Will you and friends successfully expose your manager and his illicit schemes at Umi Grill Restaurant, piece together the clues and serve justice to the shores?
+Will you and your coworkers successfully expose your manager and his illicit schemes at Umi Grill Restaurant? Piece together the clues and serve justice to the shores.
 
 Free to play on itch.io
 
