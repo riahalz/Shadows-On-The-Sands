@@ -8,9 +8,8 @@ Will you and friends successfully expose your manager and his illicit schemes at
 Free to play on itch.io
 
 <b>Technologies:</b>
-- Python
-- Ren'Py
-- GIMP
-- Autodesk Sketchbook
+- Programming languages: Python
+- Engines: Ren'Py
+- Graphic Design: GIMP, Autodesk Sketchbook
 
 This code contains some of the game's source code files and assets. All code and assets are the sole property of the developer and cannot be replicated.
