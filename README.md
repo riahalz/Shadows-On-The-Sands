@@ -1,7 +1,7 @@
 # Shadows-On-The-Sands
 <img src = "yuzu_closeup.png">
 
-'Shadows On The Sands' is a mystery/thriller visual novel game developed using Python and the Ren'Py engine.
+'Shadows On The Sands' is a solo-developed mystery/thriller visual novel game developed using Python and the Ren'Py engine.
 
 Will you and your coworkers successfully expose your manager and his illicit schemes at Umi Grill Restaurant? Piece together the clues and serve justice to the shores.
 
