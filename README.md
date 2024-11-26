@@ -2,6 +2,7 @@
 <img src = "yuzu_closeup.png">
 
 An immersive mystery game set in a bustling beachside restaurant owned by the shrewd manager Mr. Matsu.
+
 After you secure a job as a part-time hostess at Umi Grill restaurant, you spend the following days interacting with your coworkers, making crucial choices, and meeting interesting characters in your new city as you strive to unravel the secrets which may be lurking beneath the surface of your workplace.
 With teamwork and wit, will you uncover the truth and serve justice to the shores?
 
