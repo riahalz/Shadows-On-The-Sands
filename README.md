@@ -1,5 +1,5 @@
 # Shadows-On-The-Sands
-<img width=610px; height=350px; src = "yuzu_closeup.png">
+<img src="yuzu_closeup.png" width=610px height=350px align="center">
 
 An immersive mystery game set in a bustling beachside restaurant owned by the shrewd manager Mr. Matsu.
 
