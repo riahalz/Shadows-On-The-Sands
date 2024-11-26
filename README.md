@@ -8,7 +8,7 @@ With teamwork and wit, will you uncover the truth and serve justice to the shore
 
 <hr>
 
-<p><b>Developed by</b>: Riya H</p>
+<p style="font-family: courier"><b>Developed by</b>: Riya H</p>
 <p></p><b>Writing by</b>: Riya H</p>
 <p></p><b>Artwork by</b>: Riya H</p>
 <p></p><b>Music by</b>: Riya H and Sahyan Fareedi Ahmed</p>
