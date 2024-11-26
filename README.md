@@ -16,4 +16,4 @@ With teamwork and wit, will you uncover the truth and serve justice to the shore
 - Artwork: GIMP, Autodesk Sketchbook
 - Music Production: LMMS
 
-<i>This repository contains some of the game's source code files and assets. All code and assets are the sole property of the developer and cannot be replicated.</i>
+<i>This repository contains some of the game's source code files and assets. All files are the sole property of the developer and cannot be replicated.</i>
