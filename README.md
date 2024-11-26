@@ -22,7 +22,7 @@ With teamwork and wit, will you uncover the truth and serve justice to the shore
 <ul><b>Technologies:</b>
   <li>Programming languages: Python</li>
   <li>Engines: Ren'Py</li>
-  <li>Artwork: GIMP, Autodesk Sketchbook</li>
+  <li>Digital Artwork: GIMP, Autodesk Sketchbook</li>
   <li>Music Production: LMMS</li>
 </ul>
 
